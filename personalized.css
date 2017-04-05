@@ -163,6 +163,7 @@
      0.75px 0.75px 0.25px #ff8c00;
     padding-top: 60px;
     padding-bottom: 60px;
+    margin: -1 px;
 	background-image: url(images/footer-trumpet.png);
     background-position: center;
 }
