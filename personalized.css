@@ -2,7 +2,7 @@
     padding-top: 45px;
     padding-bottom: 45px;
     margin-bottom: 0;
-    background-image: url('images/header-breadboard');
+    background-image: url(images/header-breadboard);
 }
 
 .headerImage a {
@@ -16,7 +16,8 @@
     color: #5e1425;
     text-decoration: none;
     font-size: 2em;
-    font-family: 'Damion', 'Times New Roman';
+    font-style: italic;
+    font-family: 'Times New Roman';
 }
 
 .headerImage a:hover {
