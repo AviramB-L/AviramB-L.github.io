@@ -132,6 +132,7 @@
 	margin: 0;
 	padding: 0;
 	height: 30px;
+}
 
 .footerImage {
 	text-shadow:
@@ -142,5 +143,5 @@
     padding-top: 45px;
     padding-bottom: 45px;
     margin-bottom: 0;
-    background-image: url(images/footer-.jpg);
+    background-image: url(images/footer-trumpet.jpg);
 }
