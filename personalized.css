@@ -34,15 +34,15 @@
     font-family: 'Times New Roman';
 }
 
-.headerImage a span {
+.headerImage a span.i {
 	font-style: italic;	
 }
 
-.headerImage a:hover span {
+.headerImage a:hover span.i {
 	font-style: italic;	
 }
 
-.headerImage a:active span {
+.headerImage a:active span.i {
 	font-style: italic;	
 }
 
