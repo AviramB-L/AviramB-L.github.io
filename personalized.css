@@ -4,8 +4,8 @@
     0.75px -0.75px 0.25px #ffffff,
     -0.75px 0.75px 0.25px #ffffff,
      0.75px 0.75px 0.25px #ffffff;
-    padding-top: 45px;
-    padding-bottom: 45px;
+    padding-top: 60px;
+    padding-bottom: 60px;
     margin-bottom: 0;
     background-image: url(images/header-breadboard.jpg);
 }
@@ -155,13 +155,14 @@
 	color: #ffffff;
 	font-size: 1.25em;
 	font-style: italic;
+	text-align: center;
     text-shadow:
    -0.75px -0.75px 0.25px #ff8c00,  
     0.75px -0.75px 0.25px #ff8c00,
     -0.75px 0.75px 0.25px #ff8c00,
      0.75px 0.75px 0.25px #ff8c00;
-    padding-top: 45px;
-    padding-bottom: 45px;
+    padding-top: 60px;
+    padding-bottom: 60px;
 	background-image: url(images/footer-trumpet.png);
     background-position: center;
 }
