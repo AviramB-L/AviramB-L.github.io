@@ -97,6 +97,10 @@
     font-family: 'Times New Roman';
 }
 
+.headerImage li {
+	background-color: #2C92DD;
+}
+
 .headerImage li a {
     color: #ff8c00;
     font-size: 1.75em;
