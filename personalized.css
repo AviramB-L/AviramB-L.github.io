@@ -33,18 +33,18 @@
 
 .headerImage a span.i {
 	font-style: italic;
-	font-size: 2.25em;
+	font-size: 1.75em;
 }
 
 .headerImage a:hover span.i {
 	font-style: italic;
-	font-size: 2.25em;
+	font-size: 1.75em;
 
 }
 
 .headerImage a:active span.i {
 	font-style: italic;
-	font-size: 2.25em;
+	font-size: 1.75em;
 
 }
 
@@ -56,7 +56,7 @@
     -2px 2px 0 #ff8c00,
      2px 2px 0 #ff8c00;
     text-decoration: none;
-    font-size: 10em;
+    font-size: 3.5em;
     font-style: none;
     font-weight: bold;
     font-family: 'Times New Roman';
@@ -70,7 +70,7 @@
     -2px 2px 0 #ff8c00,
      2px 2px 0 #ff8c00;
     text-decoration: none;
-    font-size: 10em;
+    font-size: 3.5em;
     font-style: none;
     font-weight: bold;
     font-family: 'Times New Roman';
@@ -84,7 +84,7 @@
     -2px 2px 0 #ff8c00,
      2px 2px 0 #ff8c00;
     text-decoration: none;
-    font-size: 10em;
+    font-size: 3.5em;
     font-style: none;
     font-weight: bold;
     font-family: 'Times New Roman';
