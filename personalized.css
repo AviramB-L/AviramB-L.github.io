@@ -107,7 +107,7 @@
     font-family: 'Times New Roman';
 }
 
-.headerImage ul li a:active:focus {
+.headerImage ul li a:active {
 	background-color: #ffffff;
     color: #ff8c00;
     font-size: 1.75sem;
@@ -124,6 +124,11 @@
     font-weight: bold;
     font-family: 'Times New Roman';
 }
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0; // remove the gap so it doesn't close
+ }
 
 .mainImage {
     padding-top: 30px;
