@@ -35,34 +35,18 @@
 }
 
 .headerImage a span {
-    color: #ffffff;
-    text-shadow:
-   -2px -2px 0 #ff8c00,  
-    2px -2px 0 #ff8c00,
-    -2px 2px 0 #ff8c00,
-     2px 2px 0 #ff8c00;
-    text-decoration: none;
-    font-size: 1.5em;
-    font-style: none;
-    font-weight: bold;
-    font-family: 'Times New Roman';
+	font-style: italic;	
 }
 
 .headerImage a:hover span {
-    color: #ffffff;
-    text-shadow:
-   -2px -2px 0 #ff8c00,  
-    2px -2px 0 #ff8c00,
-    -2px 2px 0 #ff8c00,
-     2px 2px 0 #ff8c00;
-    text-decoration: none;
-    font-size: 1.5em;
-    font-style: none;
-    font-weight: bold;
-    font-family: 'Times New Roman';
+	font-style: italic;	
 }
 
 .headerImage a:active span {
+	font-style: italic;	
+}
+
+.headerImage a span.1 {
     color: #ffffff;
     text-shadow:
    -2px -2px 0 #ff8c00,  
@@ -76,16 +60,32 @@
     font-family: 'Times New Roman';
 }
 
-.headerImage a span.i {
-	font-style: italic;	
+.headerImage a:hover span.1 {
+    color: #ffffff;
+    text-shadow:
+   -2px -2px 0 #ff8c00,  
+    2px -2px 0 #ff8c00,
+    -2px 2px 0 #ff8c00,
+     2px 2px 0 #ff8c00;
+    text-decoration: none;
+    font-size: 1.5em;
+    font-style: none;
+    font-weight: bold;
+    font-family: 'Times New Roman';
 }
 
-.headerImage a:hover span.i {
-	font-style: italic;	
-}
-
-.headerImage a:active span.i {
-	font-style: italic;	
+.headerImage a:active span.1 {
+    color: #ffffff;
+    text-shadow:
+   -2px -2px 0 #ff8c00,  
+    2px -2px 0 #ff8c00,
+    -2px 2px 0 #ff8c00,
+     2px 2px 0 #ff8c00;
+    text-decoration: none;
+    font-size: 1.5em;
+    font-style: none;
+    font-weight: bold;
+    font-family: 'Times New Roman';
 }
 
 .headerImage li a {
