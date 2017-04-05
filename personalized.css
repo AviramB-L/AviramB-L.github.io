@@ -137,7 +137,7 @@
     height: 30px;
 }
 
-.footerImage {
+.footerbackground {
     color: #ff8c00;
     text-shadow:
    -0.75px -0.75px 0.25px #ffffff,  
@@ -147,7 +147,10 @@
     padding-top: 45px;
     padding-bottom: 45px;
     margin-bottom: 0;
-    background-image: url(images/footer-trumpet.png);
+}
+
+.footerImage {
+	background-image: url(images/footer-trumpet.png);
     background-position: center;
     background-repeat: no-repeat;
 }
