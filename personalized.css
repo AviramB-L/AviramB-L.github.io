@@ -20,10 +20,10 @@ text-shadow:
     font-family: 'Times New Roman';
 }
 
-.headerImage a span.small {
+.headerImage a span {
     color: #ff8c00;
     text-decoration: none;
-    font-size: 2em;
+    font-size: em;
     font-style: italic;
     font-family: 'Times New Roman';
 }
