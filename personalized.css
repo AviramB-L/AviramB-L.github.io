@@ -11,13 +11,21 @@
 }
 
 .headerImage a {
+    color: #ff8c00;
+    text-decoration: none;
+    font-size: 3.5em;
+    font-weight: bold;
+    font-family: 'Times New Roman';
+}
+
+.headerImage a span.outline {
     //color: #ffffff;
     color: rgba(0, 0, 0, 0);
     text-shadow:
-   -2px -2px 1px #ff8c00,  
-    2px -2px 1px #ff8c00,
-    -2px 2px 1px #ff8c00,
-     2px 2px 1px #ff8c00;
+   -1px -1px 0 #ff8c00,  
+    1px -1px 0 #ff8c00,
+    -1px 1px 0 #ff8c00,
+     1px 1px 0 #ff8c00;
     text-decoration: none;
     font-size: 3.5em;
     font-weight: bold;
