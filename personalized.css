@@ -1,9 +1,9 @@
 .headerImage {
 	text-shadow:
-   -1px -1px 0.5px #ffffff,  
-    1px -1px 0.5px #ffffff,
-    -1px 1px 0.5px #ffffff,
-     1px 1px 0.5px #ffffff;
+   -0.75px -0.75px 0.25px #ffffff,  
+    0.75px -0.75px 0.25px #ffffff,
+    -0.75px 0.75px 0.25px #ffffff,
+     0.75px 0.75px 0.25px #ffffff;
     padding-top: 45px;
     padding-bottom: 45px;
     margin-bottom: 0;
@@ -11,7 +11,12 @@
 }
 
 .headerImage a {
-    color: #ff8c00;
+    color: #ffffff;
+   -2px -2px 0px #ff8c00,  
+    2px -2px 0px #ff8c00,
+    -2px 2px 0px #ff8c00,
+     2px 2px 0px #ff8c00;
+    opacity: 0.5;
     text-decoration: none;
     font-size: 3.5em;
     font-weight: bold;
