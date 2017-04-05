@@ -20,17 +20,11 @@
 
 .headerImage a span.outline {
     color: #ffffff;
-    color: rgba(0, 0, 0, 0);
     text-shadow:
    -1.5px -1.5px 0 #ff8c00,  
     1.5px -1.5px 0 #ff8c00,
     -1.5px 1.5px 0 #ff8c00,
      1.5px 1.5px 0 #ff8c00;
-    /*text-shadow:
-   -0.5px -0.5px 0 rgba(0, 0, 0, 0),  
-    0.5px -0.5px 0 rgba(0, 0, 0, 0),
-    -0.5px 0.5px 0 rgba(0, 0, 0, 0),
-     0.5px 0.5px 0 rgba(0, 0, 0, 0);*/
     text-decoration: none;
     font-size: 1em;
     font-weight: bold;
@@ -39,16 +33,11 @@
 
 .headerImage a:hover span.outline {
     color: #ffffff;
-    color: rgba(0, 0, 0, 0);
     text-shadow:
    -1.5px -1.5px 0 #ff8c00,  
     1.5px -1.5px 0 #ff8c00,
     -1.5px 1.5px 0 #ff8c00,
      1.5px 1.5px 0 #ff8c00;
-   -1px -1px 1px rgba(0, 0, 0, 0),  
-    1px -1px 1px rgba(0, 0, 0, 0),
-    -1px 1px 1px rgba(0, 0, 0, 0),
-     1px 1px 1px rgba(0, 0, 0, 0);
     text-decoration: none;
     font-size: 1em;
     font-weight: bold;
@@ -57,17 +46,11 @@
 
 .headerImage a:active span.outline {
     color: #ffffff;
-    color: rgba(0, 0, 0, 0);
     text-shadow:
    -1.5px -1.5px 0 #ff8c00,  
     1.5px -1.5px 0 #ff8c00,
     -1.5px 1.5px 0 #ff8c00,
      1.5px 1.5px 0 #ff8c00;
-    /*text-shadow:
-   -0.5px -0.5px 0 rgba(0, 0, 0, 0),  
-    0.5px -0.5px 0 rgba(0, 0, 0, 0),
-    -0.5px 0.5px 0 rgba(0, 0, 0, 0),
-     0.5px 0.5px 0 rgba(0, 0, 0, 0);*/
     text-decoration: none;
     font-size: 1em;
     font-weight: bold;
