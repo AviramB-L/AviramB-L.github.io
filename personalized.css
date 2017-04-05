@@ -1,5 +1,5 @@
 .headerImage {
-	text-shadow:
+    text-shadow:
    -0.75px -0.75px 0.25px #ffffff,  
     0.75px -0.75px 0.25px #ffffff,
     -0.75px 0.75px 0.25px #ffffff,
@@ -32,19 +32,19 @@
 }
 
 .headerImage a span.i {
-	font-style: italic;
-	font-size: 1.75em;
+    font-style: italic;
+    font-size: 1.75em;
 }
 
 .headerImage a:hover span.i {
-	font-style: italic;
-	font-size: 1.75em;
+    font-style: italic;
+    font-size: 1.75em;
 
 }
 
 .headerImage a:active span.i {
-	font-style: italic;
-	font-size: 1.75em;
+    font-style: italic;
+    font-size: 1.75em;
 
 }
 
@@ -99,7 +99,7 @@
 }
 
 .headerImage li a:hover {
-	background-color: #2C92DD;
+    background-color: #2C92DD;
     color: #ff8c00;
     font-size: 1.75em;
     font-style: italic;
@@ -116,29 +116,29 @@
 }
 
 .mainImage {
-	padding-top: 30px;
+    padding-top: 30px;
     padding-bottom: 30px;
     margin-bottom: 0;
-	background-color: #2C92DD;
+    background-color: #2C92DD;
 }
 
 .mainImage p {
-	color: #ffffff;
-	text-decoration: none;
+    color: #ffffff;
+    text-decoration: none;
     font-size: 1.25em;
     font-family: 'Times New Roman';
 }
 
 .footerStripe {
-	color: #ff8c00;
-	margin: 0;
-	padding: 30px;
-	height: 30px;
+    color: #ff8c00;
+    margin: 0;
+    padding: 30px;
+    height: 30px;
 }
 
 .footerImage {
-	color: #ff8c00;
-	text-shadow:
+    color: #ff8c00;
+    text-shadow:
    -0.75px -0.75px 0.25px #ffffff,  
     0.75px -0.75px 0.25px #ffffff,
     -0.75px 0.75px 0.25px #ffffff,
