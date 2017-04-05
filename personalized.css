@@ -43,7 +43,7 @@
 .headerImage a:hover span {
     color: #ff8c00;
     text-decoration: none;
-    font-size: .75em;
+    font-size: .7em;
     font-style: italic;
     font-family: 'Times New Roman';
 }
@@ -51,7 +51,7 @@
 .headerImage a:active span {
     color: #ff8c00;
     text-decoration: none;
-    font-size: .75em;
+    font-size: .7em;
     font-style: italic;
     font-family: 'Times New Roman';
 }
