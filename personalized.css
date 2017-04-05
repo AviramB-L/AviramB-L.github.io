@@ -152,9 +152,14 @@
 }
 
 .footerImage {
-	color: #ff8c00;
+	color: #ffffff;
 	font-size: 1.25em;
-    font-style: italic;
+	font-style: italic;
+    text-shadow:
+   -0.75px -0.75px 0.25px #ff8c00,  
+    0.75px -0.75px 0.25px #ff8c00,
+    -0.75px 0.75px 0.25px #ff8c00,
+     0.75px 0.75px 0.25px #ff8c00;
     padding-top: 45px;
     padding-bottom: 45px;
 	background-image: url(images/footer-trumpet.png);
