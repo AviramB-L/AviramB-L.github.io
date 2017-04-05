@@ -1,9 +1,9 @@
 *{
 text-shadow:
-   -1px -1px .5 #ffffff,  
-    1px -1px .5 #ffffff,
-    -1px 1px .5 #ffffff,
-     1px 1px .5 #ffffff;
+   -2px -2px 1 #ffffff,  
+    2px -2px 1 #ffffff,
+    -2px 2px 1 #ffffff,
+     2px 2px 1 #ffffff;
 }
 
 .headerImage {
