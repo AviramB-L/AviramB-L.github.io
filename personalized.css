@@ -13,7 +13,7 @@
 .headerImage a {
     color: #ff8c00;
     text-decoration: none;
-    font-size: 2.5em;
+    font-size: 2em;
     font-weight: bold;
     font-family: 'Times New Roman';
 }
@@ -21,7 +21,7 @@
 .headerImage a:hover {
     color: #ff8c00;
     text-decoration: none;
-    font-size: 2.5em;
+    font-size: 2em;
     font-weight: bold;
     font-family: 'Times New Roman';
 }
@@ -29,7 +29,7 @@
 .headerImage a:active {
    color: #ff8c00;
     text-decoration: none;
-    font-size: 2.5em;
+    font-size: 2em;
     font-weight: bold;
     font-family: 'Times New Roman';
 }
@@ -74,6 +74,18 @@
     font-style: none;
     font-weight: bold;
     font-family: 'Times New Roman';
+}
+
+.headerImage a span.i {
+	font-style: italic;	
+}
+
+.headerImage a:hover span.i {
+	font-style: italic;	
+}
+
+.headerImage a:active span.i {
+	font-style: italic;	
 }
 
 .headerImage li a {
