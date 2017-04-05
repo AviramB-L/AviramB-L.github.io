@@ -1,12 +1,9 @@
-*{
-text-shadow:
+.headerImage {
+	text-shadow:
    -1px -1px 0.5px #ffffff,  
     1px -1px 0.5px #ffffff,
     -1px 1px 0.5px #ffffff,
      1px 1px 0.5px #ffffff;
-}
-
-.headerImage {
     padding-top: 45px;
     padding-bottom: 45px;
     margin-bottom: 0;
