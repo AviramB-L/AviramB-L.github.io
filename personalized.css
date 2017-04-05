@@ -15,73 +15,7 @@
     text-decoration: none;
     font-size: 3.5em;
     font-weight: bold;
-    font-family: 'Times New Roman';
-}
-
-.headerImage a span {
-    color: #ff8c00;
-    text-decoration: none;
-    font-size: .7em;
     font-style: italic;
-    font-family: 'Times New Roman';
-}
-
-.headerImage a:hover span {
-    color: #ff8c00;
-    text-decoration: none;
-    font-size: .7em;
-    font-style: italic;
-    font-family: 'Times New Roman';
-}
-
-.headerImage a:active span {
-    color: #ff8c00;
-    text-decoration: none;
-    font-size: .7em;
-    font-style: italic;
-    font-family: 'Times New Roman';
-}
-
-
-.headerImage a span.outline {
-    color: #ffffff;
-    text-shadow:
-   -2px -2px 0 #ff8c00,  
-    2px -2px 0 #ff8c00,
-    -2px 2px 0 #ff8c00,
-     2px 2px 0 #ff8c00;
-    text-decoration: none;
-    font-size: 1em;
-    font-style: none;
-    font-weight: bold;
-    font-family: 'Times New Roman';
-}
-
-.headerImage a:hover span.outline {
-    color: #ffffff;
-    text-shadow:
-   -2px -2px 0 #ff8c00,  
-    2px -2px 0 #ff8c00,
-    -2px 2px 0 #ff8c00,
-     2px 2px 0 #ff8c00;
-    text-decoration: none;
-    font-size: 1em;
-    font-style: none;
-    font-weight: bold;
-    font-family: 'Times New Roman';
-}
-
-.headerImage a:active span.outline {
-    color: #ffffff;
-    text-shadow:
-   -2px -2px 0 #ff8c00,  
-    2px -2px 0 #ff8c00,
-    -2px 2px 0 #ff8c00,
-     2px 2px 0 #ff8c00;
-    text-decoration: none;
-    font-size: 1em;
-    font-style: none;
-    font-weight: bold;
     font-family: 'Times New Roman';
 }
 
@@ -90,13 +24,57 @@
     text-decoration: none;
     font-size: 3.5em;
     font-weight: bold;
+    font-style: italic;
     font-family: 'Times New Roman';
 }
 
 .headerImage a:active {
-    color: #ff8c00;
+   color: #ff8c00;
     text-decoration: none;
     font-size: 3.5em;
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Times New Roman';
+}
+
+.headerImage a span {
+    color: #ffffff;
+    text-shadow:
+   -2px -2px 0 #ff8c00,  
+    2px -2px 0 #ff8c00,
+    -2px 2px 0 #ff8c00,
+     2px 2px 0 #ff8c00;
+    text-decoration: none;
+    font-size: 1em;
+    font-style: none;
+    font-weight: bold;
+    font-family: 'Times New Roman';
+}
+
+.headerImage a:hover span {
+    color: #ffffff;
+    text-shadow:
+   -2px -2px 0 #ff8c00,  
+    2px -2px 0 #ff8c00,
+    -2px 2px 0 #ff8c00,
+     2px 2px 0 #ff8c00;
+    text-decoration: none;
+    font-size: 1em;
+    font-style: none;
+    font-weight: bold;
+    font-family: 'Times New Roman';
+}
+
+.headerImage a:active span {
+    color: #ffffff;
+    text-shadow:
+   -2px -2px 0 #ff8c00,  
+    2px -2px 0 #ff8c00,
+    -2px 2px 0 #ff8c00,
+     2px 2px 0 #ff8c00;
+    text-decoration: none;
+    font-size: 1em;
+    font-style: none;
     font-weight: bold;
     font-family: 'Times New Roman';
 }
