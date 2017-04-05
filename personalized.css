@@ -130,15 +130,15 @@
     font-family: 'Times New Roman';
 }
 
-.footerStripe {
-    color: #ff8c00;
+.stripe {
+    background-color: #ff8c00;
     margin: 0;
-    padding: 30px;
+    padding: 0;
     height: 30px;
 }
 
 .footerbackground {
-    color: #ff8c00;
+    background-color: #ff8c00;
     text-shadow:
    -0.75px -0.75px 0.25px #ffffff,  
     0.75px -0.75px 0.25px #ffffff,
