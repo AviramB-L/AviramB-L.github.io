@@ -54,7 +54,7 @@
     -2px 2px 0 #ff8c00,
      2px 2px 0 #ff8c00;
     text-decoration: none;
-    font-size: 1.5em;
+    font-size: 2em;
     font-style: none;
     font-weight: bold;
     font-family: 'Times New Roman';
@@ -68,7 +68,7 @@
     -2px 2px 0 #ff8c00,
      2px 2px 0 #ff8c00;
     text-decoration: none;
-    font-size: 1.5em;
+    font-size: 2em;
     font-style: none;
     font-weight: bold;
     font-family: 'Times New Roman';
@@ -82,7 +82,7 @@
     -2px 2px 0 #ff8c00,
      2px 2px 0 #ff8c00;
     text-decoration: none;
-    font-size: 1.5em;
+    font-size: 2em;
     font-style: none;
     font-weight: bold;
     font-family: 'Times New Roman';
@@ -127,6 +127,20 @@
     font-family: 'Times New Roman';
 }
 
-.mainImage img {
-	
+.footerStripe {
+	color: #ff8c00;
+	margin: 0;
+	padding: 0;
+	height: 30px;
+
+.footerImage {
+	text-shadow:
+   -0.75px -0.75px 0.25px #ffffff,  
+    0.75px -0.75px 0.25px #ffffff,
+    -0.75px 0.75px 0.25px #ffffff,
+     0.75px 0.75px 0.25px #ffffff;
+    padding-top: 45px;
+    padding-bottom: 45px;
+    margin-bottom: 0;
+    background-image: url(images/footer-.jpg);
 }
