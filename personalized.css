@@ -48,7 +48,7 @@
 
 }
 
-.headerImage a span.1 {
+.headerImage a span.b {
     color: #ffffff;
     text-shadow:
    -2px -2px 0 #ff8c00,  
@@ -62,7 +62,7 @@
     font-family: 'Times New Roman';
 }
 
-.headerImage a:hover span.1 {
+.headerImage a:hover span.b {
     color: #ffffff;
     text-shadow:
    -2px -2px 0 #ff8c00,  
@@ -76,7 +76,7 @@
     font-family: 'Times New Roman';
 }
 
-.headerImage a:active span.1 {
+.headerImage a:active span.b {
     color: #ffffff;
     text-shadow:
    -2px -2px 0 #ff8c00,  
