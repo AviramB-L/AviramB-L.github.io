@@ -68,3 +68,10 @@ text-shadow:
     font-weight: bold;
     font-family: 'Times New Roman';
 }
+
+.mainImage {
+	padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 0;
+	background-color: #2C92DD;
+}
