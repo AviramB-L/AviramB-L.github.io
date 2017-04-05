@@ -13,6 +13,7 @@
 .headerImage a {
     //color: #ffffff;
     color: rgba(0, 0, 0, 0);
+    text-shadow:
    -2px -2px 0px #ff8c00,  
     2px -2px 0px #ff8c00,
     -2px 2px 0px #ff8c00,
@@ -24,6 +25,22 @@
 }
 
 .headerImage a span {
+    color: #ff8c00;
+    text-decoration: none;
+    font-size: .75em;
+    font-style: italic;
+    font-family: 'Times New Roman';
+}
+
+.headerImage a:hover span {
+    color: #ff8c00;
+    text-decoration: none;
+    font-size: .75em;
+    font-style: italic;
+    font-family: 'Times New Roman';
+}
+
+.headerImage a:active span {
     color: #ff8c00;
     text-decoration: none;
     font-size: .75em;
