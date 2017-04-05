@@ -44,7 +44,7 @@
 
 .headerImage li a {
     color: #ff8c00;
-    font-size: 1.5em;
+    font-size: 1.75em;
     font-style: italic;
     font-weight: bold;
     font-family: 'Times New Roman';
@@ -52,7 +52,7 @@
 
 .headerImage li a:hover {
     color: #ff8c00;
-    font-size: 1.5em;
+    font-size: 1.75em;
     font-style: italic;
     font-weight: bold;
     font-family: 'Times New Roman';
@@ -60,7 +60,7 @@
 
 .headerImage li a:active {
     background-color: #ff8c00;
-    font-size: 1.5sem;
+    font-size: 1.75sem;
     font-style: italic;
     font-weight: bold;
     font-family: 'Times New Roman';
@@ -76,7 +76,7 @@
 .mainImage p {
 	color: #ffffff;
 	text-decoration: none;
-    font-size: 1.5em;
+    font-size: 1.75em;
     font-family: 'Times New Roman';
 }
 
