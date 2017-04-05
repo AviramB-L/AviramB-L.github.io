@@ -97,10 +97,6 @@
     font-family: 'Times New Roman';
 }
 
-.headerImage li {
-	background-color: #2C92DD;
-}
-
 .headerImage li a {
     color: #ff8c00;
     font-size: 1.75em;
@@ -110,6 +106,7 @@
 }
 
 .headerImage li a:hover {
+	background-color: #2C92DD;
     color: #ff8c00;
     font-size: 1.75em;
     font-style: italic;
