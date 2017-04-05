@@ -13,7 +13,6 @@
 .headerImage a {
     color: #ff8c00;
     text-decoration: none;
-    font-size: 2em;
     font-weight: bold;
     font-family: 'Times New Roman';
 }
@@ -21,7 +20,6 @@
 .headerImage a:hover {
     color: #ff8c00;
     text-decoration: none;
-    font-size: 2em;
     font-weight: bold;
     font-family: 'Times New Roman';
 }
@@ -29,21 +27,25 @@
 .headerImage a:active {
    color: #ff8c00;
     text-decoration: none;
-    font-size: 2em;
     font-weight: bold;
     font-family: 'Times New Roman';
 }
 
 .headerImage a span.i {
-	font-style: italic;	
+	font-style: italic;
+	font-size: 2.25em;
 }
 
 .headerImage a:hover span.i {
-	font-style: italic;	
+	font-style: italic;
+	font-size: 2.25em;
+
 }
 
 .headerImage a:active span.i {
-	font-style: italic;	
+	font-style: italic;
+	font-size: 2.25em;
+
 }
 
 .headerImage a span.1 {
@@ -54,7 +56,7 @@
     -2px 2px 0 #ff8c00,
      2px 2px 0 #ff8c00;
     text-decoration: none;
-    font-size: 2em;
+    font-size: 3.5em;
     font-style: none;
     font-weight: bold;
     font-family: 'Times New Roman';
@@ -68,7 +70,7 @@
     -2px 2px 0 #ff8c00,
      2px 2px 0 #ff8c00;
     text-decoration: none;
-    font-size: 2em;
+    font-size: 3.5em;
     font-style: none;
     font-weight: bold;
     font-family: 'Times New Roman';
@@ -82,7 +84,7 @@
     -2px 2px 0 #ff8c00,
      2px 2px 0 #ff8c00;
     text-decoration: none;
-    font-size: 2em;
+    font-size: 3.5em;
     font-style: none;
     font-weight: bold;
     font-family: 'Times New Roman';
@@ -135,6 +137,7 @@
 }
 
 .footerImage {
+	color: #ff8c00;
 	text-shadow:
    -0.75px -0.75px 0.25px #ffffff,  
     0.75px -0.75px 0.25px #ffffff,
@@ -144,4 +147,6 @@
     padding-bottom: 45px;
     margin-bottom: 0;
     background-image: url(images/footer-trumpet.png);
+    background-position: center;
+    background-repeat: no-repeat;
 }
