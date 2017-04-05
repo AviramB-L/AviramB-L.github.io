@@ -4,3 +4,45 @@
     margin-bottom: 0;
     background-image: url('images/header-breadboard');
 }
+
+.headerImage a {
+    color: #5e1425;
+    text-decoration: none;
+    font-size: 3em;
+    font-family: 'Times New Roman';
+}
+
+.headerImage a:hover {
+    color: #5e1425;
+    text-decoration: none;
+    font-size: 3em;
+    font-family: 'Times New Roman';
+}
+
+.headerImage a:active {
+    color: #5e1425;
+    text-decoration: none;
+    font-size: 3em;
+    font-family: 'Times New Roman';
+}
+
+.headerImage li a {
+    color: #411111;
+    font-size: 1.3em;
+    font-style: italic;
+    font-family: 'Times New Roman';
+}
+
+.headerImage li a:hover {
+    color: #411111;
+    font-size: 1.3em;
+    font-style: italic;
+    font-family: 'Times New Roman';
+}
+
+.headerImage li a:active {
+    background-color: #411111;
+    font-size: 1.3em;
+    font-style: italic;
+    font-family: 'Times New Roman';
+}
