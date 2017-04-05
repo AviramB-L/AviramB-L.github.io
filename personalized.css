@@ -16,14 +16,14 @@ text-shadow:
 .headerImage a {
     color: #ff8c00;
     text-decoration: none;
-    font-size: 3em;
+    font-size: 3.5em;
     font-family: 'Times New Roman';
 }
 
 .headerImage a span {
     color: #ff8c00;
     text-decoration: none;
-    font-size: em;
+    font-size: .75em;
     font-style: italic;
     font-family: 'Times New Roman';
 }
@@ -31,34 +31,34 @@ text-shadow:
 .headerImage a:hover {
     color: #ff8c00;
     text-decoration: none;
-    font-size: 3em;
+    font-size: 3.5em;
     font-family: 'Times New Roman';
 }
 
 .headerImage a:active {
     color: #ff8c00;
     text-decoration: none;
-    font-size: 3em;
+    font-size: 3.5em;
     font-family: 'Times New Roman';
 }
 
 .headerImage li a {
     color: #ff8c00;
-    font-size: 1.3em;
+    font-size: 1.75em;
     font-style: italic;
     font-family: 'Times New Roman';
 }
 
 .headerImage li a:hover {
     color: #ff8c00;
-    font-size: 1.3em;
+    font-size: 1.75em;
     font-style: italic;
     font-family: 'Times New Roman';
 }
 
 .headerImage li a:active {
     background-color: #ff8c00;
-    font-size: 1.3em;
+    font-size: 1.75em;
     font-style: italic;
     font-family: 'Times New Roman';
 }
