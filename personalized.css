@@ -14,14 +14,14 @@ text-shadow:
 }
 
 .headerImage a {
-    color: #5e1425;
+    color: #ff8c00;
     text-decoration: none;
     font-size: 3em;
     font-family: 'Times New Roman';
 }
 
 .headerImage a span.small {
-    color: #5e1425;
+    color: #ff8c00;
     text-decoration: none;
     font-size: 2em;
     font-style: italic;
@@ -29,35 +29,35 @@ text-shadow:
 }
 
 .headerImage a:hover {
-    color: #5e1425;
+    color: #ff8c00;
     text-decoration: none;
     font-size: 3em;
     font-family: 'Times New Roman';
 }
 
 .headerImage a:active {
-    color: #5e1425;
+    color: #ff8c00;
     text-decoration: none;
     font-size: 3em;
     font-family: 'Times New Roman';
 }
 
 .headerImage li a {
-    color: #411111;
+    color: #ff8c00;
     font-size: 1.3em;
     font-style: italic;
     font-family: 'Times New Roman';
 }
 
 .headerImage li a:hover {
-    color: #411111;
+    color: #ff8c00;
     font-size: 1.3em;
     font-style: italic;
     font-family: 'Times New Roman';
 }
 
 .headerImage li a:active {
-    background-color: #411111;
+    background-color: #ff8c00;
     font-size: 1.3em;
     font-style: italic;
     font-family: 'Times New Roman';
