@@ -12,6 +12,13 @@
     font-family: 'Times New Roman';
 }
 
+.headerImage a.small {
+    color: #5e1425;
+    text-decoration: none;
+    font-size: 2em;
+    font-family: 'Damion', 'Times New Roman';
+}
+
 .headerImage a:hover {
     color: #5e1425;
     text-decoration: none;
