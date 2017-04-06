@@ -178,65 +178,51 @@ body {
 }
 
 .aboutMeImage {
-	font-size: 3 em;
-	text-align: center;
-	text-shadow:
-   -0.75px -0.75px 0.25px #ffffff,  
-    0.75px -0.75px 0.25px #ffffff,
-    -0.75px 0.75px 0.25px #ffffff,
-     0.75px 0.75px 0.25px #ffffff;
-	background-image: url(images/about-me.jpg);
+	position: relative;
+    width: 50%;
+    overflow: hidden;
     background-position: center;
-    width: 100%;
-  	padding-top: 23%;
-  	padding-bottom: 23%
   	background-size: contain;
+  	background-image: url(images/about-me.jpg);
 }
 
 .projectsImage {
-	font-size: 3 em;
-	text-align: center;
-	text-shadow:
-   -0.75px -0.75px 0.25px #ffffff,  
-    0.75px -0.75px 0.25px #ffffff,
-    -0.75px 0.75px 0.25px #ffffff,
-     0.75px 0.75px 0.25px #ffffff;
-	background-image: url(images/sinking-bridge.png);
+	position: relative;
+    width: 50%;
+    overflow: hidden;
     background-position: center;
-    width: 100%;
-  	padding-top: 23%;
-  	padding-bottom: 23%
   	background-size: contain;
+	background-image: url(images/sinking-bridge.png);
 }
 
 .resumeImage {
-	font-size: 3 em;
-	text-align: center;
-	text-shadow:
-   -0.75px -0.75px 0.25px #ffffff,  
-    0.75px -0.75px 0.25px #ffffff,
-    -0.75px 0.75px 0.25px #ffffff,
-     0.75px 0.75px 0.25px #ffffff;
-	background-image: url(images/resume-image.png);
+	position: relative;
+    width: 50%;
+    overflow: hidden;
     background-position: center;
-    width: 100%;
-  	padding-top: 23%;
-  	padding-bottom: 23%
   	background-size: contain;
+	background-image: url(images/resume-image.png);
 }
 
 .contactMeImage {
+	position: relative;
+    width: 50%;
+    overflow: hidden;
+    background-position: center;
+  	background-size: contain;
+	background-image: url(images/contact-me.png);
+}
+
+.boxContent {
 	font-size: 3 em;
-	text-align: center;
+	position:  absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
 	text-shadow:
    -0.75px -0.75px 0.25px #ffffff,  
     0.75px -0.75px 0.25px #ffffff,
     -0.75px 0.75px 0.25px #ffffff,
      0.75px 0.75px 0.25px #ffffff;
-	background-image: url(images/contact-me.png);
-    background-position: center;
-    width: 100%;
-  	padding-top: 23%;
-  	padding-bottom: 23%
-  	background-size: contain;
 }
