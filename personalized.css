@@ -359,7 +359,7 @@ no-margin-padding {
 	background-repeat: no-repeat;
 }
 
-a.button {
+.mainImage a.button {
 	background-color: #ffffff;
 	color: #ff8c00;
 	font-family: 'Times New Roman'
@@ -368,7 +368,7 @@ a.button {
 	text-align: center;
 }
 
-a:hover.button {
+.mainImage a:hover.button {
 	background-color: #ff8c00;
 	color: #2C92DD;
 	font-family: 'Times New Roman'
