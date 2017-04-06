@@ -195,8 +195,8 @@ no-margin-padding {
 }
 
 .aboutMeImage {
-	padding-top: 45%;
-    padding-bottom: 45%;
+	padding-top: 20%;
+    padding-bottom: 70%;
 	position: relative;
     height: 50%;
     overflow: hidden;
@@ -207,8 +207,8 @@ no-margin-padding {
 }
 
 .projectsImage {
-	padding-top: 45%;
-    padding-bottom: 45%;
+	padding-top: 20%;
+    padding-bottom: 70%;
 	position: relative;
     height: 50%;
     overflow: hidden;
@@ -219,8 +219,8 @@ no-margin-padding {
 }
 
 .resumeImage {
-	padding-top: 45%;
-    padding-bottom: 45%;
+	padding-top: 20%;
+    padding-bottom: 70%;
 	position: relative;
     height: 50%;
     overflow: hidden;
@@ -231,8 +231,8 @@ no-margin-padding {
 }
 
 .contactMeImage {
-	padding-top: 45%;
-    padding-bottom: 45%;
+	padding-top: 20%;
+    padding-bottom: 70%;
 	position: relative;
     height: 50%;
     overflow: hidden;
