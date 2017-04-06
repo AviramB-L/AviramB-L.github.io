@@ -185,6 +185,7 @@
     width: 100%;
   	padding-top: 23%;
   	padding-bottom: 23%
+  	background-size: cover;
 }
 
 .projectsImage {
@@ -200,6 +201,7 @@
     width: 100%;
   	padding-top: 23%;
   	padding-bottom: 23%
+  	background-size: cover;
 }
 
 .resumeImage {
@@ -215,6 +217,7 @@
     width: 100%;
   	padding-top: 23%;
   	padding-bottom: 23%
+  	background-size: cover;
 }
 
 .contactMeImage {
@@ -230,4 +233,5 @@
     width: 100%;
   	padding-top: 23%;
   	padding-bottom: 23%
+  	background-size: cover;
 }
