@@ -171,3 +171,51 @@
 	background-image: url(images/footer-trumpet.png);
     background-position: center;
 }
+
+.aboutMeImage {
+	font-size: 1.25 em;
+	font-align: center;
+	text-shadow:
+   -0.75px -0.75px 0.25px #000000,  
+    0.75px -0.75px 0.25px #000000,
+    -0.75px 0.75px 0.25px #000000,
+     0.75px 0.75px 0.25px #000000;
+	background-image: url(images/about-me.jpg);
+    background-position: center;
+}
+
+.projectsImage {
+	font-size: 1.25 em;
+	font-align: center;
+	text-shadow:
+   -0.75px -0.75px 0.25px #000000,  
+    0.75px -0.75px 0.25px #000000,
+    -0.75px 0.75px 0.25px #000000,
+     0.75px 0.75px 0.25px #000000;
+	background-image: url(images/sinking-bridge.png);
+    background-position: center;
+}
+
+.resumeImage {
+	font-size: 1.25 em;
+	font-align: center;
+	text-shadow:
+   -0.75px -0.75px 0.25px #000000,  
+    0.75px -0.75px 0.25px #000000,
+    -0.75px 0.75px 0.25px #000000,
+     0.75px 0.75px 0.25px #000000;
+	background-image: url(images/resume-image);
+    background-position: center;
+}
+
+.contactMeImage {
+	font-size: 1.25 em;
+	font-align: center;
+	text-shadow:
+   -0.75px -0.75px 0.25px #000000,  
+    0.75px -0.75px 0.25px #000000,
+    -0.75px 0.75px 0.25px #000000,
+     0.75px 0.75px 0.25px #000000;
+	background-image: url(images/contact-me.png);
+    background-position: center;
+}
