@@ -1,3 +1,8 @@
+no-margin-padding {
+	margin: 0;
+	padding: 0;	
+}
+
 .headerImage {
     text-shadow:
    -0.75px -0.75px 0.25px #ffffff,  
