@@ -138,6 +138,15 @@ no-margin-padding {
     font-family: 'Times New Roman';
 }
 
+.headerImage ul li ul li.active {
+	background-color: #ffffff;
+    color: #ff8c00;
+    font-size: 1.75sem;
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'Times New Roman';
+}
+
 .dropdown:hover .dropdown-menu {
     display: block;
     margin-top: 0; // remove the gap so it doesn't close
