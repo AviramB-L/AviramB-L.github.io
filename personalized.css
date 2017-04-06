@@ -364,11 +364,13 @@ a.button {
 	color: #ff8c00;
 	font-family: 'Times New Roman'
 	text-decoration: none;
+	font-size: 1.5em;
 }
 
-a:hover.button {
+a:hover a.button {
 	background-color: #ff8c00;
 	color: #2C92DD;
 	font-family: 'Times New Roman'
 	text-decoration: none;
+	font-size: 1.5em;
 }
