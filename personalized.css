@@ -103,6 +103,14 @@ no-margin-padding {
     font-family: 'Times New Roman';
 }
 
+.headerImage ul li ul li a {
+    color: #ff8c00;
+    font-size: 1.75em;
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'Times New Roman';
+}
+
 .headerImage ul li a:hover {
     background-color: #2c92dd;
     color: #ff8c00;
