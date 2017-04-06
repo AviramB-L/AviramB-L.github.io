@@ -182,6 +182,7 @@
      0.75px 0.75px 0.25px #000000;
 	background-image: url(images/about-me.jpg);
     background-position: center;
+    height: width;
 }
 
 .projectsImage {
@@ -194,6 +195,7 @@
      0.75px 0.75px 0.25px #000000;
 	background-image: url(images/sinking-bridge.png);
     background-position: center;
+    height: width;
 }
 
 .resumeImage {
@@ -206,6 +208,7 @@
      0.75px 0.75px 0.25px #000000;
 	background-image: url(images/resume-image);
     background-position: center;
+    height: width;
 }
 
 .contactMeImage {
@@ -218,4 +221,5 @@
      0.75px 0.75px 0.25px #000000;
 	background-image: url(images/contact-me.png);
     background-position: center;
+    height: width;
 }
