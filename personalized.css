@@ -176,54 +176,58 @@
 	font-size: 1.25 em;
 	font-align: center;
 	text-shadow:
-   -0.75px -0.75px 0.25px #000000,  
-    0.75px -0.75px 0.25px #000000,
-    -0.75px 0.75px 0.25px #000000,
-     0.75px 0.75px 0.25px #000000;
+   -0.75px -0.75px 0.25px #ffffff,  
+    0.75px -0.75px 0.25px #ffffff,
+    -0.75px 0.75px 0.25px #ffffff,
+     0.75px 0.75px 0.25px #ffffff;
 	background-image: url(images/about-me.jpg);
     background-position: center;
     width: 100%;
-  	height: 100%;
+  	padding-top: 23%;
+  	padding-bottom: 23%
 }
 
 .projectsImage {
 	font-size: 1.25 em;
 	font-align: center;
 	text-shadow:
-   -0.75px -0.75px 0.25px #000000,  
-    0.75px -0.75px 0.25px #000000,
-    -0.75px 0.75px 0.25px #000000,
-     0.75px 0.75px 0.25px #000000;
+   -0.75px -0.75px 0.25px #ffffff,  
+    0.75px -0.75px 0.25px #ffffff,
+    -0.75px 0.75px 0.25px #ffffff,
+     0.75px 0.75px 0.25px #ffffff;
 	background-image: url(images/sinking-bridge.png);
     background-position: center;
     width: 100%;
-  	height: 100%;
+  	padding-top: 23%;
+  	padding-bottom: 23%
 }
 
 .resumeImage {
 	font-size: 1.25 em;
 	font-align: center;
 	text-shadow:
-   -0.75px -0.75px 0.25px #000000,  
-    0.75px -0.75px 0.25px #000000,
-    -0.75px 0.75px 0.25px #000000,
-     0.75px 0.75px 0.25px #000000;
+   -0.75px -0.75px 0.25px #ffffff,  
+    0.75px -0.75px 0.25px #ffffff,
+    -0.75px 0.75px 0.25px #ffffff,
+     0.75px 0.75px 0.25px #ffffff;
 	background-image: url(images/resume-image);
     background-position: center;
     width: 100%;
-  	height: 100%;
+  	padding-top: 23%;
+  	padding-bottom: 23%
 }
 
 .contactMeImage {
-	font-size: 1.25 em;
+	font-size: 3 em;
 	font-align: center;
 	text-shadow:
-   -0.75px -0.75px 0.25px #000000,  
-    0.75px -0.75px 0.25px #000000,
-    -0.75px 0.75px 0.25px #000000,
-     0.75px 0.75px 0.25px #000000;
+   -0.75px -0.75px 0.25px #ffffff,  
+    0.75px -0.75px 0.25px #ffffff,
+    -0.75px 0.75px 0.25px #ffffff,
+     0.75px 0.75px 0.25px #ffffff;
 	background-image: url(images/contact-me.png);
     background-position: center;
     width: 100%;
-  	padding-bottom: 100%;
+  	padding-top: 23%;
+  	padding-bottom: 23%
 }
