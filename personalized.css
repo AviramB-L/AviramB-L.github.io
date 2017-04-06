@@ -281,6 +281,7 @@ no-margin-padding {
 }
 
 .mainImage h1 {
+	color: #ff8c00;
 	font-size: 1.75em;
 	font-family: 'Times New Roman';
 	font-weight: bold;
