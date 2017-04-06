@@ -178,8 +178,8 @@ body {
 }
 
 .aboutMeImage {
-	font-size: 1.25 em;
-	font-align: center;
+	font-size: 3 em;
+	text-align: center;
 	text-shadow:
    -0.75px -0.75px 0.25px #ffffff,  
     0.75px -0.75px 0.25px #ffffff,
@@ -190,12 +190,12 @@ body {
     width: 100%;
   	padding-top: 23%;
   	padding-bottom: 23%
-  	background-size: cover;
+  	background-size: 100%;
 }
 
 .projectsImage {
-	font-size: 1.25 em;
-	font-align: center;
+	font-size: 3 em;
+	text-align: center;
 	text-shadow:
    -0.75px -0.75px 0.25px #ffffff,  
     0.75px -0.75px 0.25px #ffffff,
@@ -206,12 +206,12 @@ body {
     width: 100%;
   	padding-top: 23%;
   	padding-bottom: 23%
-  	background-size: cover;
+  	background-size: 100%;
 }
 
 .resumeImage {
-	font-size: 1.25 em;
-	font-align: center;
+	font-size: 3 em;
+	text-align: center;
 	text-shadow:
    -0.75px -0.75px 0.25px #ffffff,  
     0.75px -0.75px 0.25px #ffffff,
@@ -222,12 +222,12 @@ body {
     width: 100%;
   	padding-top: 23%;
   	padding-bottom: 23%
-  	background-size: cover;
+  	background-size: 100%;
 }
 
 .contactMeImage {
 	font-size: 3 em;
-	font-align: center;
+	text-align: center;
 	text-shadow:
    -0.75px -0.75px 0.25px #ffffff,  
     0.75px -0.75px 0.25px #ffffff,
@@ -238,5 +238,5 @@ body {
     width: 100%;
   	padding-top: 23%;
   	padding-bottom: 23%
-  	background-size: cover;
+  	background-size: 100%;
 }
