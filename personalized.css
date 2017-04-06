@@ -368,7 +368,7 @@ a.button {
 	text-align: center;
 }
 
-a:hover a.button {
+a:hover.button {
 	background-color: #ff8c00;
 	color: #2C92DD;
 	font-family: 'Times New Roman'
