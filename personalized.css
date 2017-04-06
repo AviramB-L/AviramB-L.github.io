@@ -173,8 +173,8 @@
 }
 
 .aboutMeImage {
-	padding-top: 23%;
-    padding-bottom: 23%;
+	padding-top: 45%;
+    padding-bottom: 45%;
 	position: relative;
     height: 50%;
     overflow: hidden;
@@ -184,8 +184,8 @@
 }
 
 .projectsImage {
-	padding-top: 23%;
-    padding-bottom: 23%;
+	padding-top: 45%;
+    padding-bottom: 45%;
 	position: relative;
     height: 50%;
     overflow: hidden;
@@ -195,8 +195,8 @@
 }
 
 .resumeImage {
-	padding-top: 23%;
-    padding-bottom: 23%;
+	padding-top: 45%;
+    padding-bottom: 45%;
 	position: relative;
     height: 50%;
     overflow: hidden;
@@ -206,8 +206,8 @@
 }
 
 .contactMeImage {
-	padding-top: 23%;
-    padding-bottom: 23%;
+	padding-top: 45%;
+    padding-bottom: 45%;
 	position: relative;
     height: 50%;
     overflow: hidden;
@@ -217,8 +217,8 @@
 }
 
 .boxContent {
-	font-size: 3 em;
-	position:  absolute;
+	font-size: 3em;
+	text-align: center;
     top: 0;
     left: 0;
     bottom: 0;
@@ -228,4 +228,12 @@
     0.75px -0.75px 0.25px #ffffff,
     -0.75px 0.75px 0.25px #ffffff,
      0.75px 0.75px 0.25px #ffffff;
+}
+
+.mainImage a {
+	text-decoration: none;
+}
+
+.mainImage a:hover {
+	text-decoration: none;
 }
