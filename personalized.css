@@ -286,3 +286,75 @@ no-margin-padding {
 	font-family: 'Times New Roman';
 	font-weight: bold;
 }
+
+.project1image {
+	padding-top: 45%;
+    padding-bottom: 45%;
+	position: relative;
+    height: 50%;
+    overflow: hidden;
+    background-position: center;
+  	background-size: contain;
+	background-image: url(images/projects/1.png);
+	background-repeat: no-repeat;
+}
+
+.project2image {
+	padding-top: 45%;
+    padding-bottom: 45%;
+	position: relative;
+    height: 50%;
+    overflow: hidden;
+    background-position: center;
+  	background-size: contain;
+	background-image: url(images/projects/2.png);
+	background-repeat: no-repeat;
+}
+
+.project3image {
+	padding-top: 45%;
+    padding-bottom: 45%;
+	position: relative;
+    height: 50%;
+    overflow: hidden;
+    background-position: center;
+  	background-size: contain;
+	background-image: url(images/projects/3.png);
+	background-repeat: no-repeat;
+}
+
+.project4image {
+	padding-top: 45%;
+    padding-bottom: 45%;
+	position: relative;
+    height: 50%;
+    overflow: hidden;
+    background-position: center;
+  	background-size: contain;
+	background-image: url(images/projects/4.png);
+	background-repeat: no-repeat;
+}
+
+.project5image {
+	padding-top: 45%;
+    padding-bottom: 45%;
+	position: relative;
+    height: 50%;
+    overflow: hidden;
+    background-position: center;
+  	background-size: contain;
+	background-image: url(images/projects/5.png);
+	background-repeat: no-repeat;
+}
+
+.project6image {
+	padding-top: 45%;
+    padding-bottom: 45%;
+	position: relative;
+    height: 50%;
+    overflow: hidden;
+    background-position: center;
+  	background-size: contain;
+	background-image: url(images/projects/6.png);
+	background-repeat: no-repeat;
+}
