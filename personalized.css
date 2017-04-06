@@ -228,7 +228,8 @@
 }
 
 .mainImage a.title{
-	color: 2c92dd;
+	color: #ff8c00;
+	font-family: 'Times New Roman';
 	font-size: 3em;
 	text-align: center;
 	text-decoration: none;
@@ -240,7 +241,8 @@
 }
 
 .mainImage a:hover.title {
-	color: 2c92dd;
+	color: #ff8c00;
+	font-family: 'Times New Roman';
 	font-size: 3em;
 	text-align: center;
 	text-decoration: none;
