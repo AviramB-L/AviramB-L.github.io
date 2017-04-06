@@ -129,7 +129,7 @@ no-margin-padding {
     font-family: 'Times New Roman';
 }
 
-.headerImage li>a:focus {
+li a:focus {
 	background-color: #ffffff;
     color: #ff8c00;
     font-size: 1.75sem;
