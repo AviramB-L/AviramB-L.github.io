@@ -365,6 +365,7 @@ a.button {
 	font-family: 'Times New Roman'
 	text-decoration: none;
 	font-size: 1.5em;
+	text-align: center;
 }
 
 a:hover a.button {
@@ -373,4 +374,5 @@ a:hover a.button {
 	font-family: 'Times New Roman'
 	text-decoration: none;
 	font-size: 1.5em;
+	text-align: center;
 }
