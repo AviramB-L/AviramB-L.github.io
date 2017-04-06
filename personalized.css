@@ -112,7 +112,7 @@ no-margin-padding {
     font-family: 'Times New Roman';
 }
 
-.headerImage ul li a:active {
+.headerImage ul li:active {
 	background-color: #ffffff;
     color: #ff8c00;
     font-size: 1.75sem;
