@@ -215,6 +215,8 @@
     left: 0;
     bottom: 0;
     right: 0;
+    padding-top: 23%;
+    padding-bottom: 23%;
 	text-shadow:
    -0.75px -0.75px 0.25px #ffffff,  
     0.75px -0.75px 0.25px #ffffff,
