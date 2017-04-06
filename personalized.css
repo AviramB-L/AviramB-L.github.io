@@ -358,3 +358,17 @@ no-margin-padding {
 	background-image: url(images/projects/6.png);
 	background-repeat: no-repeat;
 }
+
+a.button {
+	background-color: #ffffff;
+	color: #ff8c00;
+	font-family: 'Times New Roman'
+	text-decoration: none;
+}
+
+a:hover.button {
+	background-color: #ff8c00;
+	color: #2C92DD;
+	font-family: 'Times New Roman'
+	text-decoration: none;
+}
