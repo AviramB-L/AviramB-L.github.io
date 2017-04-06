@@ -174,7 +174,7 @@
 
 .aboutMeImage {
 	position: relative;
-    width: 50%;
+    height: 50%;
     overflow: hidden;
     background-position: center;
   	background-size: contain;
@@ -183,7 +183,7 @@
 
 .projectsImage {
 	position: relative;
-    width: 50%;
+    height: 50%;
     overflow: hidden;
     background-position: center;
   	background-size: contain;
@@ -192,7 +192,7 @@
 
 .resumeImage {
 	position: relative;
-    width: 50%;
+    height: 50%;
     overflow: hidden;
     background-position: center;
   	background-size: contain;
@@ -201,7 +201,7 @@
 
 .contactMeImage {
 	position: relative;
-    width: 50%;
+    height: 50%;
     overflow: hidden;
     background-position: center;
   	background-size: contain;
