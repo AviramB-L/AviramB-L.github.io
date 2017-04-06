@@ -277,6 +277,7 @@ no-margin-padding {
 
 .mainImage span {
 	text-decoration: underline;
+	font-weight: bold;
 }
 
 .mainImage h1 {
