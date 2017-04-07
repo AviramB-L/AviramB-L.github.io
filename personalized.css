@@ -381,7 +381,7 @@ no-margin-padding {
 	text-align: center;
 }
 
-h2 {
+.mainImage h2 {
 	color: #ffffff;
 	font-size: 2em;
 	font-family: 'Times New Roman';
@@ -389,7 +389,7 @@ h2 {
 	text-align: center;
 }
 
-h3 {
+.mainImage h3 {
 	color: #ffffff;
 	font-size: 1.25em;
 	font-family: 'Times New Roman';
