@@ -376,3 +376,18 @@ no-margin-padding {
 	font-size: 1.5em;
 	text-align: center;
 }
+
+h2 {
+	color: #ffffff;
+	font-size: 2em;
+	font-family: 'Times New Roman';
+	font-weight: bold;
+	text-align: center;
+}
+
+h3 {
+	color: #ffffff;
+	font-size: 1.25em;
+	font-family: 'Times New Roman';
+	text-align: center;
+}
