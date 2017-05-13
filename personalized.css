@@ -3,11 +3,6 @@ body {
     text-align: justify;
 }
 
-img {
-    margin: 0 auto;
-    max-width: 100%;
-}
-
 no-margin-padding {
 	margin: 0;
 	padding: 0;	
